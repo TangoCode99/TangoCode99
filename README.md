@@ -4,6 +4,8 @@ You've found my Github page! Woohoo!
 
 I'm a Software Engineer with a focus on Frontend Development and Product testing! I am always looking to develop my career by building websites and gaining inspirations from other developers around the world. 
 
+## I am actively looking for a new opportunity with Software Engineer / Development! [LinkedIn Profile](https://www.linkedin.com/in/tango-nham/)
+
 - 👀 I’m interested in Frontend Development, Fullstack Development, Backend Development, Product testing, and creating clean UI/UX products.
 
 - 📫 How to reach me
