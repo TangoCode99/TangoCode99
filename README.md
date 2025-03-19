@@ -2,7 +2,7 @@
 
 You've found my Github page! Woohoo!
 
-I'm a Software Engineer with a focus on Frontend Development and Product testing!
+I'm a Software Engineer with a focus on Frontend Development and Product testing! I am always looking to develop my career by building websites and gaining inspirations from other developers around the world. 
 
 - 👀 I’m interested in Frontend Development, Fullstack Development, Backend Development, Product testing, and creating clean UI/UX products.
 
