@@ -11,6 +11,7 @@ I'm a Software Engineer with a focus on Frontend Development and Product testing
     - Phone: 678 - 469 - 3172
 
 - ⚡ Fun fact:
+    - I am half deaf! I can't hear from my left ear but I can hear perfectly fine on my right.
     - I enjoy traveling and exploring the world, whether it be in the United States or abroad. The world has so much to offer!
     - What pairs best with traveling? Photography! I'm an amateur photographer that I document my travel with my handy Nikon D3200.
 
